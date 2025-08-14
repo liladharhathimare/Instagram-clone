@@ -3,14 +3,7 @@
 A Flutter-powered social media app inspired by Instagram, enabling users to share posts, like, comment, and interact.  
 Built with a custom backend (no Firebase) and a responsive UI for both Android and iOS.
 
----
 
-## 📝 Description
-
-This project is a complete Instagram-like application built using **Flutter** without relying on Firebase services.  
-It provides core social media features like posting images, viewing a feed, liking, commenting, and managing user profiles.
-
----
 
 ## ✨ Features
 
