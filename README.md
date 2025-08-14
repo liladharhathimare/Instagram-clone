@@ -1,16 +1,41 @@
-# instagram_series
+# 📸 Instagram Clone
 
-A new Flutter project.
+An Instagram-like social media app built with **Flutter** and **Firebase**, offering real-time updates, photo sharing, and social interaction features.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 **Authentication** – Sign up, log in, and log out with Firebase Auth.
+- 📷 **Post Photos** – Upload images from gallery or camera.
+- ❤️ **Like & Comment** – Engage with posts in real-time.
+- 👤 **Profile Page** – View and edit your profile, including your own posts.
+- 📰 **Feed Page** – See posts from other users in a scrolling feed.
+- 🔔 **Real-time Updates** – Instant changes via Firebase Firestore.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+- **Framework:** [Flutter](https://flutter.dev)
+- **Language:** Dart
+- **Backend:** [Firebase](https://firebase.google.com)
+- **Services:**
+  - Firebase Auth
+  - Firebase Firestore
+  - Firebase Storage
+- **State Management:** Provider / Riverpod / GetX *(specify which one you used)*
+
+
+## 🚀 Getting Started
+
+### 1️⃣ Prerequisites
+- Install [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Install [Dart](https://dart.dev/get-dart)
+- Android Studio / VS Code with Flutter plugin
+- Firebase project configured
+
+### 2️⃣ Clone the Repository
+```bash
+git clone https://github.com/yourusername/instagram-clone.git
+cd instagram-clone
